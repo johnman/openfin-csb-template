@@ -1,4 +1,4 @@
-# openfin-template
+# openfin-csb-template
 This is a basic template that can be used in codesandbox.
 
 Some things you will need to update:
