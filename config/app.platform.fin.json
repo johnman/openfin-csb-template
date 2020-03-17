@@ -7,7 +7,7 @@
   },
   "platform": {
     "uuid": "platform_prototype_template_generated",
-    "applicationIcon": "https://mj905.csb.app/favicon.ico",
+    "applicationIcon": "https://hrsbf.csb.app/favicon.ico",
     "autoShow": false
   },
   "snapshot": {
@@ -33,7 +33,7 @@
                   "type": "component",
                   "componentName": "view",
                   "componentState": {
-                    "url": "https://mj905.csb.app/",
+                    "url": "https://hrsbf.csb.app/",
                     "name": "component_1584387105285"
                   },
                   "isClosable": true,

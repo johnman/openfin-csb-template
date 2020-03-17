@@ -4,10 +4,10 @@
   "startup_app": {
     "name": "OpenFin Template",
     "description": "OpenFin Template",
-    "url": "https://mj905.csb.app/",
+    "url": "https://hrsbf.csb.app/",
     "uuid": "openfin-window-template",
     "autoShow": true,
-    "applicationIcon": "https://mj905.csb.app/favicon.ico"
+    "applicationIcon": "https://hrsbf.csb.app/favicon.ico"
   },
   "runtime": {
     "version": "stable"
